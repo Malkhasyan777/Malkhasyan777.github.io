@@ -1,9 +1,11 @@
 ---
 layout: post
-title: project title
+title: Aluminum Flashlight Project
 description:  short description of the project
 skills: 
-- skill 1
-- skill 2
+- CAD Design
+- Prototyping
+- Tolerancing
+- Lathe, Mill, and Laser Machining
 main-image: /project.webp 
 ---
